@@ -1,0 +1,10 @@
+* sxql-composer
+
+Build and compose SXQL queries dynamically
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mmontone/sxql-composer.git   |
+| commit  | 2b2230c  |
+| systems | sxql-composer |
+|---------+-------------------------------------------|
+
